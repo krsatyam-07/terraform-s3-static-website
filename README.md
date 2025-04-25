@@ -1,7 +1,3 @@
-Here’s a professional and well-structured `README.md` file for your Terraform S3 static website project. It provides an overview of the project, instructions for setup, usage, and additional notes.
-
----
-
 # Terraform S3 Static Website
 
 This repository contains Terraform configuration files to deploy a static website hosted on AWS S3. The S3 bucket is configured as a static website with public read access, and it supports hosting `index.html` and `error.html`.
@@ -125,19 +121,3 @@ terraform destroy
 ```
 
 You will be prompted to confirm the deletion. Type `yes` to proceed.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
----
-
-Feel free to customize the `README.md` file further based on your specific needs. Save it in the root directory of your repository and commit it to GitHub:
-
-```bash
-git add README.md
-git commit -m "Add README file"
-git push
-```
-
-This `README.md` file provides clear instructions and makes your repository user-friendly for collaborators or future reference.
